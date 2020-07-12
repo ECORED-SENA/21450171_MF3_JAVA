@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="515" height="427.5" viewBox="0 0 515 427.5">
+  <g id="Grupo_10477" data-name="Grupo 10477" transform="translate(-217 -1675)">
+    <g id="Grupo_10476" data-name="Grupo 10476">
+      <text id="Punto_de_acceso_a_instrucción" data-name="Punto de acceso
+a instrucción" transform="translate(475 1692)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-82.705" y="0">PUNTO DE ACCESO</tspan><tspan x="-70.058" y="24">A INSTRUCCIÓN</tspan></text>
+      <text id="CONDICIÓN" transform="translate(475 1828)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-53.534" y="0">CONDICIÓN</tspan></text>
+      <text id="NO_CUMPLE" data-name="NO CUMPLE" transform="translate(294 1919)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-52.181" y="0">NO CUMPLE</tspan></text>
+      <text id="CUMPLE" transform="translate(655 1919)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-35.728" y="0">CUMPLE</tspan></text>
+      <rect id="Rectángulo_2944" data-name="Rectángulo 2944" width="33" height="33" transform="translate(474.5 1839.166) rotate(45)" fill="#026bb2"/>
+      <circle id="Elipse_640" data-name="Elipse 640" cx="18" cy="18" r="18" transform="translate(457 1730)" fill="#014c7f"/>
+      <rect id="Rectángulo_2945" data-name="Rectángulo 2945" width="154" height="69" transform="translate(217 1977)" fill="#e6eef3"/>
+      <rect id="Rectángulo_2946" data-name="Rectángulo 2946" width="154" height="69" transform="translate(578 1977)" fill="#e6eef3"/>
+      <text id="Instrucciones_fuera_del_if" data-name="Instrucciones
+fuera del if" transform="translate(294 2005)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-54.369" y="0">Instrucciones</tspan><tspan x="-43.124" y="24">fuera del if</tspan></text>
+      <text id="Instrucciones_dentro_del_if" data-name="Instrucciones
+dentro del if" transform="translate(655 2005)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="-54.369" y="0">Instrucciones</tspan><tspan x="-49.32" y="24">dentro del if</tspan></text>
+      <path id="Trazado_9365" data-name="Trazado 9365" d="M853-4880h27" transform="translate(-4586 1081) rotate(90)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Trazado_9366" data-name="Trazado 9366" d="M853-4880h27" transform="translate(-4225 1081) rotate(90)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Trazado_9368" data-name="Trazado 9368" d="M853-4880h27" transform="translate(-4405 922) rotate(90)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Trazado_9369" data-name="Trazado 9369" d="M813-4856.166V-4884H959" transform="translate(-519 6747)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Trazado_9370" data-name="Trazado 9370" d="M959-4856.166V-4884H813" transform="translate(-304 6747)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Trazado_9371" data-name="Trazado 9371" d="M813-4677v36h363v-36" transform="translate(-519 6742)" fill="none" stroke="#cbd9e4" stroke-width="3"/>
+      <path id="Polígono_6" data-name="Polígono 6" d="M8.5,0,17,14H0Z" transform="translate(286 2058)" fill="#cbd9e4"/>
+      <path id="Polígono_7" data-name="Polígono 7" d="M8.5,0,17,14H0Z" transform="translate(303 1968) rotate(180)" fill="#cbd9e4"/>
+      <path id="Polígono_8" data-name="Polígono 8" d="M8.5,0,17,14H0Z" transform="translate(664 1968) rotate(180)" fill="#cbd9e4"/>
+    </g>
+  </g>
+</svg>

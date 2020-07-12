@@ -1,0 +1,145 @@
+include ../mixins/functions
++pageHeader("Introducción", "assets/images/header/header_media.svg")
+
+.container#page-introduccion
+
+    .header-ecored
+        h2 1.4 Switch
+
+
+    .jumbotron.bg-white.mb-0
+
+        p.mb-5 Esta instrucción de decisión permite efectuar la selección de un bloque de sentencias a ejecutar, dependiendo siempre de un valor analizado; la sintaxis es la siguiente:
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-4/1.png").img-fluid
+
+        p.my-5 Se analiza el valor de una constante (<i>valorAnalizado</i>) y con base en esta se ejecutan las sentencias del caso que corresponda hasta llegar al break.
+
+        p Las sentencias del bloque default son ejecutadas cuando el <i>valorAnalizado</i> no coincide con ninguno de los valores indicados en los diferentes casos.
+
+        p Tanto el <i>valorAnalizado</i> como los valores 1, 2, 3… N deben ser de tipo int, char, short o byte.
+
+        p Se ilustra a continuación el proceso efectuado cuando se utiliza una instrucción switch.
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/2.png").img-fluid
+
+
+        .subtitulo-guion.my-5
+            h3 Ejemplos
+
+        
+        .jumbotron.bg-brand-color-dark-secondary
+            p.mb-0 
+                strong a. 
+                | Mostrar en pantalla el nombre de un mes de acuerdo con su número equivalente:
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/3.png").img-fluid
+
+        p.text-center Código solución ejemplo a – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/4.png").img-fluid
+
+        p.text-center Ejecución ejemplo a – switch (mes=3)
+
+
+        .jumbotron.bg-brand-color-dark-secondary.my-6
+            p.mb-0 
+                strong b. 
+                | Realizar las cuatro operaciones básicas de acuerdo con el operador y dos números enteros ingresados.
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/5.png").img-fluid
+
+        p.text-center Código solución ejemplo b – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/6.png").img-fluid
+
+        p.text-center Ejecución ejemplo b – switch (x=100 y=20 operación=/)
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/7.png").img-fluid
+
+        p.text-center Ejecución ejemplo b – switch (x=100 y=20 operación=>)         
+
+        .jumbotron.bg-brand-color-dark-secondary.my-6
+            p.mb-0 
+                strong c. 
+                | Imprimir en diferentes líneas de texto, palabras alusivas a los colores indicados en la tabla.
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/8.png").img-fluid
+
+        p.text-center Código solución ejemplo c – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/9.png").img-fluid
+
+        p.text-center Ejecución ejemplo c – switch (color="Verde")
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/10.png").img-fluid
+
+        p.text-center Ejecución ejemplo c – switch (color="Blanco")  
+
+
+        .subtitulo-guion.my-5
+            h3 Ejercicios
+
+        .jumbotron.bg-brand-color-dark-secondary
+            p.mb-0 
+                strong a. 
+                | Pedir por teclado un número entero del 0 al 10 y devolver su valor en letras; si se ingresa un número mayor, imprimir un mensaje.
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/11.png").img-fluid
+
+        p.text-center Código solución ejercicio a – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/12.png").img-fluid
+
+        p.text-center Ejecución ejercicio a - switch (número=7)
+
+
+        .jumbotron.bg-brand-color-dark-secondary.my-6
+            p.mb-0 
+                strong b. 
+                | Ingresar en un formulario las notas de tres exámenes (valoración de 0 a 5) y el nombre de la materia; posteriormente al oprimir el botón CALCULAR, el programa debe analizar, según la materia, el porcentaje aplicado a cada nota y calcular la nota final. Se debe proceder utilizando un switch y teniendo en cuenta la información vista en la siguiente tabla:
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/13.png").img-fluid
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/14.png").img-fluid
+
+        p.text-center Interfaz gráfica ejercicio b – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/15.png").img-fluid
+
+        p.text-center Código del botón CALCULAR ejercicio b – switch
+
+        .jumbotron.bg-brand-color-dark-secondary.my-6
+            p.mb-0 
+                strong c. 
+                | La compañía de cable cuenta con 5 planes de promoción a través de la acumulación de puntos para sus suscriptores; el cargo fijo mensual a pagar es de $58.000 pero según el código adquirido se aplica un descuento de acuerdo con la siguiente tabla: 
+
+        p.text-center.mt-4.mb-6
+            img(src="assets/images/pages/tema-1/tema-1-3/16.png").img-fluid
+
+        p.my-5 El programa debe solicitar al usuario el código de descuento, efectuar el cálculo por medio de un switch y posteriormente mostrar el valor a pagar. 
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/17.png").img-fluid
+
+        p.text-center Código solución ejercicio c – switch
+
+        p.text-center.my-5
+            img(src="assets/images/pages/tema-1/tema-1-3/18.png").img-fluid
+
+        p.text-center Ejecución ejercicio c - switch (código="BRONCE")

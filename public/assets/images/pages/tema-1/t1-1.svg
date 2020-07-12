@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="939" height="225" viewBox="0 0 939 225">
+  <g id="Grupo_11885" data-name="Grupo 11885" transform="translate(-101 -1025)">
+    <g id="Rectángulo_2943" data-name="Rectángulo 2943" transform="translate(101 1025)" fill="#001f34" stroke="#707070" stroke-width="1">
+      <rect width="939" height="225" stroke="none"/>
+      <rect x="0.5" y="0.5" width="938" height="224" fill="none"/>
+    </g>
+    <text id="if_condición_sentencia1_sentencia2_sentenciaN_" data-name="if (condición) {
+    sentencia1…
+    sentencia2…
+    sentenciaN
+}
+" transform="translate(133 1055.5)" fill="#f6246c" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">if</tspan><tspan y="17" xml:space="preserve" fill="#fff"> (condición) {</tspan><tspan fill="#fff"><tspan x="0" y="52" xml:space="preserve">    sentencia1…</tspan><tspan x="0" y="87" xml:space="preserve">    sentencia2…</tspan><tspan x="0" y="122" xml:space="preserve">    sentenciaN</tspan><tspan x="0" y="157">}</tspan></tspan></text>
+  </g>
+</svg>

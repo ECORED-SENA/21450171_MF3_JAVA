@@ -1,0 +1,52 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "tipos-desiciones",
+    "title": "1. Tipos de decisiones",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "if",
+        "title": "1.1 If",
+        "path": "pages/tema-11.html"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "if-else",
+        "title": "1.2 If else",
+        "path": "pages/tema-12.html"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "if-else-if",
+        "title": "1.3 If else if",
+        "path": "pages/tema-13.html"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "switch",
+        "title": "1.4 Switch",
+        "path": "pages/tema-14.html"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  }   
+]
