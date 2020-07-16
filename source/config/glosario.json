@@ -4,13 +4,11 @@
     "terms": [
       {
         "title": "Bloque de sentencias:",
-        "desciption": "Consiste en un conjunto de líneas de código que está encerrado entre llaves para
-ser ejecutadas en algún momento específico del programa."
+        "desciption": "Consiste en un conjunto de líneas de código que está encerrado entre llaves para ser ejecutadas en algún momento específico del programa."
       },
       {
         "title": "Break:",
-        "desciption": "Se trata de la instrucción escrita al final de cada case en una instrucción switch. Es utilizado para
-finalizar la ejecución del switch cuando ya se ha encontrado una coincidencia para la variable analizada."
+        "desciption": "Se trata de la instrucción escrita al final de cada case en una instrucción switch. Es utilizado para finalizar la ejecución del switch cuando ya se ha encontrado una coincidencia para la variable analizada."
       }
     ]
   },
@@ -19,8 +17,7 @@ finalizar la ejecución del switch cuando ya se ha encontrado una coincidencia p
     "terms": [
       {
         "title": "Condición:",
-        "desciption": "Consiste en una expresión que es evaluada para determinar la forma en la cual debe continuar
-la ejecución del programa."
+        "desciption": "Consiste en una expresión que es evaluada para determinar la forma en la cual debe continuar la ejecución del programa."
       }
     ]
   },
@@ -29,13 +26,11 @@ la ejecución del programa."
     "terms": [
       {
         "title": "Ingreso por teclado:",
-        "desciption": "Acción que realiza el usuario al proporcionar al programa datos requeridos para su
-ejecución."
+        "desciption": "Acción que realiza el usuario al proporcionar al programa datos requeridos para su ejecución."
       },
       {
         "title": "Instrucciones de control:",
-        "desciption": "Consiste en diferentes elementos del lenguaje que permiten la toma de
-decisiones en cuanto al orden o proceso de ejecución de los programas."
+        "desciption": "Consiste en diferentes elementos del lenguaje que permiten la toma de decisiones en cuanto al orden o proceso de ejecución de los programas."
       }      
     ]
   }
